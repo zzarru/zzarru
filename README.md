@@ -11,6 +11,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%A5%94+I'm+Front-end+Developer!+%F0%9F%8C%B1)](https://git.io/typing-svg)  
 **#숲을_보는_개발자**  
 
+**#사용자_중심_사고**
+
 <br/>
 <br/>
 <br/>
