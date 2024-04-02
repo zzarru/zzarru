@@ -43,8 +43,30 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
+<br/>
+<br/>
+<br/>
 
+### 💬 Algorithm 💡  
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zaru)](https://solved.ac/zaru)  
 
+<br/>
+<br/>
+<br/>
 
+### 📂 Blog 💿  
+
+[![Velog's Recent Post](https://velog-readme-stats.vercel.app/api?name=zzarru)](https://github.com/eungyeole/velog-readme-stats)
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/><br/>
+<br/>
+<br/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzarru%2Fhit-counter&count_bg=%23629EE3&title_bg=%23DFF8FF&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div> 
