@@ -58,8 +58,7 @@
 <br/>
 
 ### 📂 Blog 💿  
-
-[![Velog's Recent Post](https://velog-readme-stats.vercel.app/api?name=zaru)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zaru)](https://github.com/eungyeole/velog-readme-stats)
 
 <br/>
 <br/>
