@@ -57,8 +57,8 @@
 <br/>
 <br/>
 
-### 📂 Blog 💿  
-<<!-- 권한에 문제 생긴듯.. 내가 개발해야하나... -->
+<!--### 📂 Blog 💿  -->
+<!-- 권한에 문제 생긴듯.. 내가 개발해야하나... -->
 <!--[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zaru)](https://velog.io/@zaru/posts)-->
 <br/>
 <br/>
